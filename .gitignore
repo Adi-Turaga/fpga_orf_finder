@@ -15,3 +15,5 @@ vivado_project/*
 # Core project binaries if placed incorrectly
 *.cache/
 *.gen/
+
+update_src.sh
